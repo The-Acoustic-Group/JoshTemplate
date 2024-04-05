@@ -2,11 +2,18 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "Josh Braun's 4T Cold Email Framework",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": "An email template with the outline and an example of the 4T framework.  Built with love by AcousticSelling."
     }
   ],
   "name": "JoshTemplate",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "59.0"
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "Josh Braun's 4T Cold Email Framework": "0HoUR00000000ZV0AY"
+  }
 }
