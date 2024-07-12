@@ -1,18 +1,21 @@
-# Salesforce DX Project: Next Steps
+# Do you struggle with concisely and clearly explaining what you do?
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Here’s a framework that can help.
 
-## How Do You Plan to Deploy Your Changes?
+With A, you do B, and C happens without D.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+Example for Calendly:
+“With Calendly, you paste a magic link into your email and schedule meetings without going back and forth to find the perfect time.”
 
-## Configure Your Salesforce DX Project
+Example for Grammarly:
+“With Grammarly, you type your text, and it automatically corrects spelling and grammar errors without needing to proofread manually.”
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+Brevity followed by intense listening ensures the other person understands what you said. If they have, great. If not you can add another sentence. 
 
-## Read All About It
+Your turn.
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+Use this framework to explain what you do.
+
+Why does this matter?
+
+A concise and clear explanation of what you do invites people to care and motivates them to want to learn more. The opposite is also true.
